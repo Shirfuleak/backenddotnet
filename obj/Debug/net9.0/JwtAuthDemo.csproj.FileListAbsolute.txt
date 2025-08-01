@@ -1,0 +1,235 @@
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.csproj.AssemblyReference.cache
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfoInputs.cache
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfo.cs
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\appsettings.Development.json
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\appsettings.json
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.staticwebassets.endpoints.json
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.exe
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.deps.json
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.runtimeconfig.json
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\JwtAuthDemo.pdb
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Azure.Core.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Azure.Identity.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.InMemory.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.ClientModel.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Formats.Asn1.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Memory.Data.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Text.Json.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\FullStack\Backend\JwtAuthDemo\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\scopedcss\bundle\JwtAuthDemo.styles.css
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets.build.json
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets.development.json
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\staticwebassets.pack.json
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthD.04A440BA.Up2Date
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.dll
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\refint\JwtAuthDemo.dll
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.pdb
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\JwtAuthDemo.genruntimeconfig.cache
+F:\FullStack\Backend\JwtAuthDemo\obj\Debug\net9.0\ref\JwtAuthDemo.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\appsettings.Development.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\appsettings.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\package-lock.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\package.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\public\manifest.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.staticwebassets.runtime.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.staticwebassets.endpoints.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.exe
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.deps.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.runtimeconfig.json
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\JwtAuthDemo.pdb
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Azure.Core.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Azure.Identity.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Humanizer.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.OpenApi.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Mono.TextTemplating.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.CodeDom.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Composition.Convention.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Composition.Hosting.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Composition.Runtime.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Composition.TypedParts.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Drawing.Common.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Memory.Data.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Runtime.Caching.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Security.Permissions.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\System.Windows.Extensions.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+F:\git project\backend\fullstackdevelopment\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.csproj.AssemblyReference.cache
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.GeneratedMSBuildEditorConfig.editorconfig
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfoInputs.cache
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.AssemblyInfo.cs
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.csproj.CoreCompileInputs.cache
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cs
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.MvcApplicationPartsAssemblyInfo.cache
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.sourcelink.json
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\scopedcss\bundle\JwtAuthDemo.styles.css
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets.build.json
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets.development.json
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssets.props
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets\msbuild.JwtAuthDemo.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets\msbuild.build.JwtAuthDemo.props
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.JwtAuthDemo.props
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.JwtAuthDemo.props
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets.pack.json
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthD.04A440BA.Up2Date
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.dll
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\refint\JwtAuthDemo.dll
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.pdb
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\JwtAuthDemo.genruntimeconfig.cache
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\ref\JwtAuthDemo.dll
+F:\git project\backend\fullstackdevelopment\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt

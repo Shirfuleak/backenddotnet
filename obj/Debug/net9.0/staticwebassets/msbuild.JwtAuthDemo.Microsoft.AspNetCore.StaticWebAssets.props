@@ -1,0 +1,58 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\46a5a9ab-ebae-4807-8a92-f2a56cc91a69__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JwtAuthDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JwtAuthDemo</BasePath>
+      <RelativePath>images/46a5a9ab-ebae-4807-8a92-f2a56cc91a69__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wfz733ce2a</Fingerprint>
+      <Integrity>1EE3eRLADDvzJyRFKVC9LPL2Vso2pqQURHaK+NQ75zI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\46a5a9ab-ebae-4807-8a92-f2a56cc91a69__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\55782010-c1f8-476c-8292-9d425840529a__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JwtAuthDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JwtAuthDemo</BasePath>
+      <RelativePath>images/55782010-c1f8-476c-8292-9d425840529a__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wfz733ce2a</Fingerprint>
+      <Integrity>1EE3eRLADDvzJyRFKVC9LPL2Vso2pqQURHaK+NQ75zI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\55782010-c1f8-476c-8292-9d425840529a__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f1e73a4e-3401-4393-b158-36763c5c539f__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))">
+      <SourceType>Package</SourceType>
+      <SourceId>JwtAuthDemo</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/JwtAuthDemo</BasePath>
+      <RelativePath>images/f1e73a4e-3401-4393-b158-36763c5c539f__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>wfz733ce2a</Fingerprint>
+      <Integrity>1EE3eRLADDvzJyRFKVC9LPL2Vso2pqQURHaK+NQ75zI=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\f1e73a4e-3401-4393-b158-36763c5c539f__578d758e-8f90-11e6-b1ee-4de56c7571da.wdp.jxr'))</OriginalItemSpec>
+    </StaticWebAsset>
+  </ItemGroup>
+</Project>
